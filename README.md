@@ -100,15 +100,3 @@ Enter Seat No: 5
 **Janhavi Mali** 💙
 📌 Java Developer | Fresher
 
----
-
-## ⭐ Show Your Support
-
-If you like this project:
-
-🌟 Star this repo
-📢 Share with others
-
----
-
-✨ *Keep Learning, Keep Growing!* ✨
